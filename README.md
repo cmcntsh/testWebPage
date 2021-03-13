@@ -10,3 +10,11 @@
 ## General Productivity
 
 * https://workspace.google.com/
+
+## HIPAA Compliance
+
+* Google Workspace: https://support.google.com/a/answer/2888485#zippy=%2Chipaa-business-associate-amendment
+
+## Research Ethics
+
+* CITI training: https://about.citiprogram.org/en/homepage/
